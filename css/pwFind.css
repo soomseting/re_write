@@ -2,7 +2,7 @@
 ul , li {list-style: none;}
 a {text-decoration: none;}
 
-.section{width: 800px;height: 700px;}
+.section{width: 800px;height: 700px; margin: 0 auto;}
 .title_box {text-align: center;}
 
 .box {width: 400px;height: 800px;margin: 70px auto;}
